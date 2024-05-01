@@ -5,5 +5,9 @@
             "/images/*.{png,jpg,gif,ico}",
             "/*.{css,scss,js}"
         ]
-    }
+    },
+    
+    "platform": {
+        "apiRuntime": "node:18"
+      }
 }
