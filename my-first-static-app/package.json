@@ -9,6 +9,9 @@
     "test": "ng test",
     "serve:ssr:my-first-static-app": "node dist/my-first-static-app/server/server.mjs"
   },
+  "engines": {
+    "node": "18.19.1"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.3.0",
